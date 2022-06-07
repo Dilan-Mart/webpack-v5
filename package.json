@@ -4,7 +4,7 @@
   "description": "\"# webpack-v5\"",
   "main": "./src/index.js",
   "scripts": {
-    "build": "webpack"
+    "build": "rd /S/Q dist && webpack"
   },
   "repository": {
     "type": "git",
