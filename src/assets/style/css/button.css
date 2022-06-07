@@ -1,0 +1,17 @@
+.btn {
+  background-color: aqua;
+  font: 400 1rem;
+}
+
+.btn-reddish {
+  background-color: red;
+}
+
+.p {
+  color: aqua;
+  font: 400 1rem;
+}
+
+.p-reddish {
+  color: hotpink;
+}

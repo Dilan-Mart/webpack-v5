@@ -22,7 +22,11 @@ module.exports = {
       {
         test: /\.txt/,
         type: "asset/source", //will convert text into javaScript string
-      }
+      },
+      {
+        test: /\.css/,
+        use: ["style-loader", "css-loader"],
+      },
     ],
   },
 };

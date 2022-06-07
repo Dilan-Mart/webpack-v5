@@ -1,6 +1,4 @@
-import addImg from './assets/js/addImg'
+// import addImg from './assets/js/addImg'
+import buttonComponent from './assets/js/button'
 
-console.log("hello world")
-setTimeout(()=>{
-    addImg()
-},5000)
+document.body.appendChild(buttonComponent)
