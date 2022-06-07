@@ -1,0 +1,22 @@
+$mild-weight: 400;
+$aqua-bg: aqua;
+$red-bg: red;
+$hotpink: hotpink;
+
+.btn {
+  background-color: $aqua-bg;
+  font: $mild-weight;
+}
+
+.btn-reddish {
+  background-color: $red-bg;
+}
+
+.p {
+  color: $aqua-bg;
+  font: $mild-weight 1rem;
+}
+
+.p-reddish {
+  color: $hotpink;
+}

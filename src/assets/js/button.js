@@ -1,4 +1,5 @@
-import "../style/css/button.css";
+// import "../style/css/button.css";
+import "../style/scss/button.scss";
 
 const button = document.createElement("button");
 button.classList.add("btn", "btn-reddish");
